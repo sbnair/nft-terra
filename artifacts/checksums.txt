@@ -1,0 +1,2 @@
+47c20fbe68a106eb25823852fbd54b19c34da4a6cafb43edf36d990c0e259da3  astrohero.wasm
+098503ddfd79940251540ddc294bc437603cfe3f10e5db139987dd8d02e5796e  whitelist_airdrop.wasm

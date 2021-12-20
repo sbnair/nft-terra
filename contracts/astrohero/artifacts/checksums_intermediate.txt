@@ -1,0 +1,1 @@
+de6136857d433c1f7142bf4e2f660af40720aa041f94918f8557ad16eec37170  ./target/wasm32-unknown-unknown/release/astrohero.wasm
